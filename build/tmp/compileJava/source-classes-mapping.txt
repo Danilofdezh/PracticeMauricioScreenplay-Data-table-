@@ -1,0 +1,14 @@
+com/co/screenplay/tasks/Login.java
+ com.co.screenplay.tasks.Login
+com/co/screenplay/userinterfaces/ShoesPage.java
+ com.co.screenplay.userinterfaces.ShoesPage
+com/co/screenplay/userinterfaces/LoginPage.java
+ com.co.screenplay.userinterfaces.LoginPage
+com/co/screenplay/userinterfaces/MenuComponent.java
+ com.co.screenplay.userinterfaces.MenuComponent
+com/co/screenplay/models/DataLogin.java
+ com.co.screenplay.models.DataLogin
+com/co/screenplay/questions/ValidationShoes.java
+ com.co.screenplay.questions.ValidationShoes
+com/co/screenplay/tasks/BuyShoes.java
+ com.co.screenplay.tasks.BuyShoes
